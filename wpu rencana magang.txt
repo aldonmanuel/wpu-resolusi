@@ -1,0 +1,5 @@
+magang
+- buat project
+  -> AI untuk memilih restoran
+- buat file baru
+- tambah portofolio
