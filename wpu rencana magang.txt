@@ -3,7 +3,6 @@ magang
   -> AI untuk memilih restoran
      * Algo SVM
 - Web Hosting
-- buat file baru
 - tambah portofolio
   -> Punya web sendiri
 - Database oracle
