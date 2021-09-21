@@ -1,5 +1,6 @@
 magang
 - buat project
   -> AI untuk memilih restoran
+- Web Hosting
 - buat file baru
 - tambah portofolio
